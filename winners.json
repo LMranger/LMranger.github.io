@@ -1,0 +1,34 @@
+{
+    "version": 3,
+    "weeks": [
+        {
+            "week_number": "第1周",
+            "facebook_link": "https://www.facebook.com/week1"
+        },
+        {
+            "week_number": "第2周",
+            "facebook_link": "https://www.facebook.com/week2"
+        },
+        {
+            "week_number": "第3周",
+            "facebook_link": "https://www.facebook.com/week3"
+        }
+    ],
+    "winners": [
+        {
+            "card_last_four": "1234",
+            "prize": "一等獎",
+            "week": 1
+        },
+        {
+            "card_last_four": "5678",
+            "prize": "二等獎",
+            "week": 2
+        },
+        {
+            "card_last_four": "9012",
+            "prize": "三等獎",
+            "week": 3
+        }
+    ]
+}
