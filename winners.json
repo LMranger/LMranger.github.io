@@ -1,24 +1,24 @@
 {
-    "version": 1,
+    "version": 5,
     "weeks": [
         {
-            "week_number": "第1周",
+            "week_number": "第1週",
             "facebook_link": "https://www.facebook.com/krtco/posts/pfbid013VBqA4wYxzeH4JgeVbk3fvLsJcPeHMRHU5TG9zzdsw5fAye1fRaEDF7LFrQX9gGl"
         },
         {
-            "week_number": "第2周",
+            "week_number": "第2週",
             "facebook_link": "https://www.facebook.com/krtco/posts/pfbid013VBqA4wYxzeH4JgeVbk3fvLsJcPeHMRHU5TG9zzdsw5fAye1fRaEDF7LFrQX9gGl"
         },
         {
-            "week_number": "第3周",
+            "week_number": "第3週",
             "facebook_link": "https://www.facebook.com/krtco/posts/pfbid03KJXSYPpFsEND75vao2VXLQ1z19HigR7E8aHCq1cVQECaiM3DfdmyGi8ntA2HSb2l"
         },
         {
-            "week_number": "第4周",
+            "week_number": "第4週",
             "facebook_link": "https://www.facebook.com/krtco/posts/pfbid0NKtUEgCT5GpEmGQxWHfhsXWwf6oiM33WvYJQ2qXLGJd9Mf8KPyWsySkQ99bxoVnZl"
         },
         {
-            "week_number": "第5周",
+            "week_number": "第5週",
             "facebook_link": "https://www.facebook.com/krtco/posts/pfbid02ZQG6RYeeJzmFraKJPLfDkvVXeWmXNs1AdbjfPDvj3hydvutLiV4ExiGbFeKe4i63l"
         }
     ],
@@ -670,6 +670,2598 @@
            "card_last_four": "7662",
            "prize": "家樂福禮券 200 元 (81 名)",
            "week": 1
+        },
+        {
+           "full_card_number": "32100157641",
+           "card_last_four": "7641",
+           "prize": "iPhone 15 128G (1 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "00302741441",
+           "card_last_four": "1441",
+           "prize": "Apple Watch SE (1 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "11810043618",
+           "card_last_four": "3618",
+           "prize": "高雄承億酒店一泊一食平日住宿券 (1 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1501102301210078",
+           "card_last_four": "0078",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "216760194",
+           "card_last_four": "0194",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "9219822090269470",
+           "card_last_four": "9470",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8280850072158647",
+           "card_last_four": "8647",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "7281250105573717",
+           "card_last_four": "3717",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "410240969754152960",
+           "card_last_four": "2960",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "15510029135",
+           "card_last_four": "9135",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1501002200265220",
+           "card_last_four": "5220",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "12920010297",
+           "card_last_four": "0297",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "33701771274",
+           "card_last_four": "1274",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "74000899532",
+           "card_last_four": "9532",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8280850059173346",
+           "card_last_four": "3346",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8430915057",
+           "card_last_four": "5057",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "11410002461",
+           "card_last_four": "2461",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "6717161016110370",
+           "card_last_four": "0370",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "73601272486",
+           "card_last_four": "2486",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "10200960667",
+           "card_last_four": "0667",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "73600904731",
+           "card_last_four": "4731",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "24900066552",
+           "card_last_four": "6552",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8361517932",
+           "card_last_four": "7932",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8331636455",
+           "card_last_four": "6455",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "14410063551",
+           "card_last_four": "3551",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1501002200249482",
+           "card_last_four": "9482",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "15710075562",
+           "card_last_four": "5562",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "26710150187",
+           "card_last_four": "0187",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "001900041618",
+           "card_last_four": "1618",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "31600076930",
+           "card_last_four": "6930",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "14910100055",
+           "card_last_four": "0055",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "7830537022",
+           "card_last_four": "7022",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8910370101328978",
+           "card_last_four": "8978",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "26510010403",
+           "card_last_four": "0403",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "9123808000002451",
+           "card_last_four": "2451",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "34902271767",
+           "card_last_four": "1767",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1501002100317563",
+           "card_last_four": "7563",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "32200529182",
+           "card_last_four": "9182",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1011320004003031",
+           "card_last_four": "3031",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "328970088352976896",
+           "card_last_four": "6896",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "14930030122",
+           "card_last_four": "0122",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8099002113074176",
+           "card_last_four": "4176",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "81270056158",
+           "card_last_four": "6158",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "31100426224",
+           "card_last_four": "6224",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1506002100437903",
+           "card_last_four": "7903",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8099001800993163",
+           "card_last_four": "3163",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "14510211384",
+           "card_last_four": "1384",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "16410131473",
+           "card_last_four": "1473",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "74500264813",
+           "card_last_four": "4813",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8099002009213213",
+           "card_last_four": "3213",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "32900262235",
+           "card_last_four": "2235",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "13130001205",
+           "card_last_four": "1205",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "34903281479",
+           "card_last_four": "1479",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1101102300925878",
+           "card_last_four": "5878",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "34300691370",
+           "card_last_four": "1370",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "15310160125",
+           "card_last_four": "0125",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8430914482",
+           "card_last_four": "4482",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "6981184171",
+           "card_last_four": "4171",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "10920043776",
+           "card_last_four": "3776",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "63100276879",
+           "card_last_four": "6879",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "56502618866",
+           "card_last_four": "8866",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1011321006902337",
+           "card_last_four": "2337",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "5460277945",
+           "card_last_four": "7945",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "14210106899",
+           "card_last_four": "6899",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "73402377300",
+           "card_last_four": "7300",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "9113803000097839",
+           "card_last_four": "7839",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "73300552528",
+           "card_last_four": "2528",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "9134123810171371",
+           "card_last_four": "1371",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "33500453882",
+           "card_last_four": "3882",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8480962256",
+           "card_last_four": "2256",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "26710220939",
+           "card_last_four": "0939",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1501002200535769",
+           "card_last_four": "5769",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1006001800624049",
+           "card_last_four": "4049",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "7190354444",
+           "card_last_four": "4444",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1001002300506853",
+           "card_last_four": "6853",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "16410056364",
+           "card_last_four": "6364",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "13150063344",
+           "card_last_four": "3344",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8280850051453126",
+           "card_last_four": "3126",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1001002300554372",
+           "card_last_four": "4372",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "15710004807",
+           "card_last_four": "4807",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "26700543456",
+           "card_last_four": "3456",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8281273802478723",
+           "card_last_four": "8723",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "34903281556",
+           "card_last_four": "1556",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1506002002238914",
+           "card_last_four": "8914",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8280850051453126",
+           "card_last_four": "3126",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "14910133183",
+           "card_last_four": "3183",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8300664001612574",
+           "card_last_four": "2574",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "80871633230",
+           "card_last_four": "3230",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8281273900173515",
+           "card_last_four": "3515",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "9113822090149650",
+           "card_last_four": "9650",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "419539591675121664",
+           "card_last_four": "1664",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "16410025858",
+           "card_last_four": "5858",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "82271470459",
+           "card_last_four": "0459",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "11030010531",
+           "card_last_four": "0531",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "56001882635",
+           "card_last_four": "2635",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "6635951090",
+           "card_last_four": "1090",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "00104011349",
+           "card_last_four": "1349",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "11420015132",
+           "card_last_four": "5132",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "11610015029",
+           "card_last_four": "5029",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8280850058932619",
+           "card_last_four": "2619",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "34905869002",
+           "card_last_four": "9002",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "4633884369",
+           "card_last_four": "4369",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "32903326175",
+           "card_last_four": "6175",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1001102301252184",
+           "card_last_four": "2184",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "01274441390",
+           "card_last_four": "1390",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1501002100254404",
+           "card_last_four": "4404",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1501002200361515",
+           "card_last_four": "1515",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "8130316882",
+           "card_last_four": "6882",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 2
+        },
+        {
+           "full_card_number": "1001002300459634",
+           "card_last_four": "9634",
+           "prize": "iPhone 15 128G (1 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "82277168838",
+           "card_last_four": "8838",
+           "prize": "Apple Watch SE (1 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1501002100312269",
+           "card_last_four": "2269",
+           "prize": "高雄承億酒店一泊一食平日住宿券 (1 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "9134223605549409",
+           "card_last_four": "9409",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "35750875087",
+           "card_last_four": "5087",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1001102301257488",
+           "card_last_four": "7488",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8380971401124768",
+           "card_last_four": "4768",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "74500302184",
+           "card_last_four": "2184",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "73200109801",
+           "card_last_four": "9801",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1501002200257539",
+           "card_last_four": "7539",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "7591928531",
+           "card_last_four": "8531",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "9219822090947042",
+           "card_last_four": "7042",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "23500897581",
+           "card_last_four": "7581",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "12810002218",
+           "card_last_four": "2218",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1501002200232183",
+           "card_last_four": "2183",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "14510027809",
+           "card_last_four": "7809",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "7892757611",
+           "card_last_four": "7611",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "9122115311620322",
+           "card_last_four": "0322",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8201350015698086",
+           "card_last_four": "8086",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8201272000409891",
+           "card_last_four": "9891",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8361888234",
+           "card_last_four": "8234",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "35900047442",
+           "card_last_four": "7442",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "386696344133308416",
+           "card_last_four": "8416",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1501001900137213",
+           "card_last_four": "7213",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1006001900995337",
+           "card_last_four": "5337",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "14910050795",
+           "card_last_four": "0795",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "9113822091169191",
+           "card_last_four": "9191",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1501002300285743",
+           "card_last_four": "5743",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "26510167109",
+           "card_last_four": "7109",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1006002100085863",
+           "card_last_four": "5863",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "16010010601",
+           "card_last_four": "0601",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1001002300084448",
+           "card_last_four": "4448",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "12504829",
+           "card_last_four": "4829",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "32902012174",
+           "card_last_four": "2174",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8495214302",
+           "card_last_four": "4302",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "7531767802",
+           "card_last_four": "7802",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "13810167990",
+           "card_last_four": "7990",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "00871556420",
+           "card_last_four": "6420",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1006002300139528",
+           "card_last_four": "9528",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "13310003238",
+           "card_last_four": "3238",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1007001900530687",
+           "card_last_four": "0687",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1001102301251903",
+           "card_last_four": "1903",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "13210037528",
+           "card_last_four": "7528",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1006002300063110",
+           "card_last_four": "3110",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8392069791",
+           "card_last_four": "9791",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1001002300459089",
+           "card_last_four": "9089",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1006002300637715",
+           "card_last_four": "7715",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "82218498408",
+           "card_last_four": "8408",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8494474169",
+           "card_last_four": "4169",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1001102301391683",
+           "card_last_four": "1683",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "15310144460",
+           "card_last_four": "4460",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "16310076933",
+           "card_last_four": "6933",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "13810097379",
+           "card_last_four": "7379",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "9122014103332552",
+           "card_last_four": "2552",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1006002300630443",
+           "card_last_four": "0443",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8201271300927891",
+           "card_last_four": "7891",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "33801404741",
+           "card_last_four": "4741",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "14720036435",
+           "card_last_four": "6435",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "4933722659",
+           "card_last_four": "2659",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "15710022810",
+           "card_last_four": "2810",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1001002300537249",
+           "card_last_four": "7249",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "14710130057",
+           "card_last_four": "0057",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1501002000206997",
+           "card_last_four": "6997",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8393090217",
+           "card_last_four": "0217",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "14720045309",
+           "card_last_four": "5309",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "33201321287",
+           "card_last_four": "1287",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8201271508635817",
+           "card_last_four": "5817",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "33200090853",
+           "card_last_four": "0853",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "15310012784",
+           "card_last_four": "2784",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8280850080132642",
+           "card_last_four": "2642",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "6430821946",
+           "card_last_four": "1946",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1501002100489491",
+           "card_last_four": "9491",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "7281250105085803",
+           "card_last_four": "5803",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "33200323113",
+           "card_last_four": "3113",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8280850065456990",
+           "card_last_four": "6990",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "7732497687",
+           "card_last_four": "7687",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8496886633",
+           "card_last_four": "6633",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "373358894333956096",
+           "card_last_four": "6096",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "5139102993",
+           "card_last_four": "2993",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "00301660637",
+           "card_last_four": "0637",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "373369051629621248",
+           "card_last_four": "1248",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "26510010403",
+           "card_last_four": "0403",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8280850077110411",
+           "card_last_four": "0411",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "16120018499",
+           "card_last_four": "8499",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "20100753805",
+           "card_last_four": "3805",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "35500245604",
+           "card_last_four": "5604",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "7111220229002364",
+           "card_last_four": "2364",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "12510124880",
+           "card_last_four": "4880",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8388326034",
+           "card_last_four": "6034",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "63200609521",
+           "card_last_four": "9521",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "8486541443",
+           "card_last_four": "1443",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "33202427363",
+           "card_last_four": "7363",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "9122015711095838",
+           "card_last_four": "5838",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1001002300519468",
+           "card_last_four": "9468",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "80378392650",
+           "card_last_four": "2650",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "33000859305",
+           "card_last_four": "9305",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "4333348442",
+           "card_last_four": "8442",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "25100258163",
+           "card_last_four": "8163",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "5532561123",
+           "card_last_four": "1123",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "26510073193",
+           "card_last_four": "3193",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "63100251310",
+           "card_last_four": "1310",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "15520019804",
+           "card_last_four": "9804",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "15310201753",
+           "card_last_four": "1753",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "3632338433",
+           "card_last_four": "8433",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "7111230921005934",
+           "card_last_four": "5934",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "10620024721",
+           "card_last_four": "4721",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "00300356548",
+           "card_last_four": "6548",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "1506001800423668",
+           "card_last_four": "3668",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 3
+        },
+        {
+           "full_card_number": "375928627193319424",
+           "card_last_four": "9424",
+           "prize": "iPhone 15 128G (1 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "26410055322",
+           "card_last_four": "5322",
+           "prize": "Apple Watch SE (1 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8368570133",
+           "card_last_four": "0133",
+           "prize": "高雄承億酒店一泊一食平日住宿券 (1 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "14710117121",
+           "card_last_four": "7121",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "9133803000288654",
+           "card_last_four": "8654",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8099002418300997",
+           "card_last_four": "0997",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "15010051913",
+           "card_last_four": "1913",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "16310092829",
+           "card_last_four": "2829",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "56602503074",
+           "card_last_four": "3074",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "00104268998",
+           "card_last_four": "8998",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "6092391384",
+           "card_last_four": "1384",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "9219823000127827",
+           "card_last_four": "7827",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "56702892381",
+           "card_last_four": "2381",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "75450053252",
+           "card_last_four": "3252",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1501002300117357",
+           "card_last_four": "7357",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1001102300908046",
+           "card_last_four": "8046",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8280850060584747",
+           "card_last_four": "4747",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "76150477360",
+           "card_last_four": "7360",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1001002300504821",
+           "card_last_four": "4821",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "32000453156",
+           "card_last_four": "3156",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "14310146103",
+           "card_last_four": "6103",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "14410052263",
+           "card_last_four": "2263",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "56501716995",
+           "card_last_four": "6995",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "14110049924",
+           "card_last_four": "9924",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "82273731400",
+           "card_last_four": "1400",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8282275010629384",
+           "card_last_four": "9384",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8286351048",
+           "card_last_four": "1048",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "53300694307",
+           "card_last_four": "4307",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8281278410722016",
+           "card_last_four": "2016",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8281273200447155",
+           "card_last_four": "7155",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "9517172006478540",
+           "card_last_four": "8540",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8486789372",
+           "card_last_four": "9372",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "7431057480",
+           "card_last_four": "7480",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "9113007010066680",
+           "card_last_four": "6680",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "16120028460",
+           "card_last_four": "8460",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "35151699867",
+           "card_last_four": "9867",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "16120025037",
+           "card_last_four": "5037",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "6130033683",
+           "card_last_four": "3683",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "34701557511",
+           "card_last_four": "7511",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "7112200165003809",
+           "card_last_four": "3809",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "56000548643",
+           "card_last_four": "8643",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "53301191863",
+           "card_last_four": "1863",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "34501326638",
+           "card_last_four": "6638",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1006002300153541",
+           "card_last_four": "3541",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "15710138655",
+           "card_last_four": "8655",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1501002300368941",
+           "card_last_four": "8941",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "9122017905644710",
+           "card_last_four": "4710",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "54700166328",
+           "card_last_four": "6328",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "35250807535",
+           "card_last_four": "7535",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8201350011710695",
+           "card_last_four": "0695",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8368175240",
+           "card_last_four": "5240",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "32902846680",
+           "card_last_four": "6680",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "13010051111",
+           "card_last_four": "1111",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8281278408065360",
+           "card_last_four": "5360",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "32902826516",
+           "card_last_four": "6516",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1011322007937645",
+           "card_last_four": "7645",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "36350880366",
+           "card_last_four": "0366",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8080807446",
+           "card_last_four": "7446",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "33800272217",
+           "card_last_four": "2217",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1501002200420687",
+           "card_last_four": "0687",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8201271902465704",
+           "card_last_four": "5704",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1501002200245294",
+           "card_last_four": "5294",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "11020014970",
+           "card_last_four": "4970",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "81274581068",
+           "card_last_four": "1068",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "33800338788",
+           "card_last_four": "8788",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "14150038562",
+           "card_last_four": "8562",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "20101080831",
+           "card_last_four": "0831",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8280850077728790",
+           "card_last_four": "8790",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1006002001144488",
+           "card_last_four": "4488",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1501002300122027",
+           "card_last_four": "2027",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "9123012090004991",
+           "card_last_four": "4991",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8281278409960304",
+           "card_last_four": "0304",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8260998322",
+           "card_last_four": "8322",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8492657652",
+           "card_last_four": "7652",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "80870888090",
+           "card_last_four": "8090",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8201350022591969",
+           "card_last_four": "1969",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1501002200345916",
+           "card_last_four": "5916",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "26510149800",
+           "card_last_four": "9800",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "32700576155",
+           "card_last_four": "6155",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "14510050630",
+           "card_last_four": "0630",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "14210075616",
+           "card_last_four": "5616",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "00200059617",
+           "card_last_four": "9617",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8281262200955300",
+           "card_last_four": "5300",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1001102300881643",
+           "card_last_four": "1643",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "9122116317368577",
+           "card_last_four": "8577",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1501002300067677",
+           "card_last_four": "7677",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "55900036824",
+           "card_last_four": "6824",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "33501328953",
+           "card_last_four": "8953",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "14720056532",
+           "card_last_four": "6532",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8280850062609187",
+           "card_last_four": "9187",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "9122119802959298",
+           "card_last_four": "9298",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "7762361927",
+           "card_last_four": "1927",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "20202369928",
+           "card_last_four": "9928",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8280859803698821",
+           "card_last_four": "8821",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8232002451",
+           "card_last_four": "2451",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1001102301288976",
+           "card_last_four": "8976",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "16310006616",
+           "card_last_four": "6616",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1006002001927757",
+           "card_last_four": "7757",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8201281600143636",
+           "card_last_four": "3636",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1501002200327490",
+           "card_last_four": "7490",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "00301298459",
+           "card_last_four": "8459",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "16410148264",
+           "card_last_four": "8264",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1101102300930094",
+           "card_last_four": "0094",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "00872033380",
+           "card_last_four": "3380",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8386158555",
+           "card_last_four": "8555",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "1501002200346019",
+           "card_last_four": "6019",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "8332058656",
+           "card_last_four": "8656",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "9517172009165373",
+           "card_last_four": "5373",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 4
+        },
+        {
+           "full_card_number": "4036114453",
+           "card_last_four": "4453",
+           "prize": "iPhone 15 128G (1 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "1006002300680222",
+           "card_last_four": "0222",
+           "prize": "Apple Watch SE (1 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8201268801424568",
+           "card_last_four": "4568",
+           "prize": "高雄承億酒店一泊一食平日住宿券 (1 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "6935479046",
+           "card_last_four": "9046",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "9133803000256039",
+           "card_last_four": "6039",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "7460011225",
+           "card_last_four": "1225",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "5534733304",
+           "card_last_four": "3304",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "31000055891",
+           "card_last_four": "5891",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "56400215130",
+           "card_last_four": "5130",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "1542689624",
+           "card_last_four": "9624",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "14210063166",
+           "card_last_four": "3166",
+           "prize": "高雄好玩卡 x TaKao 打狗逛逛套票 (卡片版) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8497204945",
+           "card_last_four": "4945",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8099002113442761",
+           "card_last_four": "2761",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "14410012036",
+           "card_last_four": "2036",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "32300575531",
+           "card_last_four": "5531",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8182347838",
+           "card_last_four": "7838",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "32000990065",
+           "card_last_four": "0065",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "2030092598",
+           "card_last_four": "2598",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "9122014931798750",
+           "card_last_four": "8750",
+           "prize": "漢來海港平日晚餐劵 (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "462045371858817024",
+           "card_last_four": "7024",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "9122018807302878",
+           "card_last_four": "2878",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "26510040450",
+           "card_last_four": "0450",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "1501102300833041",
+           "card_last_four": "3041",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "26510051913",
+           "card_last_four": "1913",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "76000264385",
+           "card_last_four": "4385",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "35750009128",
+           "card_last_four": "9128",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "6681341831",
+           "card_last_four": "1831",
+           "prize": "壽山動物園認養卡 (一年無限入園) (8 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "1001102301387659",
+           "card_last_four": "7659",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8201350022366909",
+           "card_last_four": "6909",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "14310122642",
+           "card_last_four": "2642",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "7492764456",
+           "card_last_four": "4456",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8099001907231038",
+           "card_last_four": "1038",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "34551211500",
+           "card_last_four": "1500",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "30800567258",
+           "card_last_four": "7258",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "36000581005",
+           "card_last_four": "1005",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8280850056064423",
+           "card_last_four": "4423",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "34900806378",
+           "card_last_four": "6378",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "33300606956",
+           "card_last_four": "6956",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8902188901368204",
+           "card_last_four": "8204",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "9122120303793822",
+           "card_last_four": "3822",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "32900797188",
+           "card_last_four": "7188",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "9113803000093284",
+           "card_last_four": "3284",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8280850083439598",
+           "card_last_four": "9598",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "1501002100274026",
+           "card_last_four": "4026",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "34906131298",
+           "card_last_four": "1298",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "14210010920",
+           "card_last_four": "0920",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "13410418779",
+           "card_last_four": "8779",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "6886316013",
+           "card_last_four": "6013",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "35111233744",
+           "card_last_four": "3744",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "34551216786",
+           "card_last_four": "6786",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8238180185",
+           "card_last_four": "0185",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "9122116317382743",
+           "card_last_four": "2743",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "1007011900093436",
+           "card_last_four": "3436",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "30200313515",
+           "card_last_four": "3515",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8485940008",
+           "card_last_four": "0008",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "33501785786",
+           "card_last_four": "5786",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "1501002100284320",
+           "card_last_four": "4320",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "6280181738",
+           "card_last_four": "1738",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8201358001149519",
+           "card_last_four": "9519",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8492331908",
+           "card_last_four": "1908",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "32700707588",
+           "card_last_four": "7588",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "1506002100435428",
+           "card_last_four": "5428",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "34955529736",
+           "card_last_four": "9736",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "7111191423006005",
+           "card_last_four": "6005",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "35550423720",
+           "card_last_four": "3720",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8280850079969996",
+           "card_last_four": "9996",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "32401157535",
+           "card_last_four": "7535",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8281278409642647",
+           "card_last_four": "2647",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8280850063264842",
+           "card_last_four": "4842",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "13910094067",
+           "card_last_four": "4067",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "3571412339",
+           "card_last_four": "2339",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "81270369278",
+           "card_last_four": "9278",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "33800793405",
+           "card_last_four": "3405",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "26710282049",
+           "card_last_four": "2049",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "00471660680",
+           "card_last_four": "0680",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "14710079366",
+           "card_last_four": "9366",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "1506002200110685",
+           "card_last_four": "0685",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "10710040021",
+           "card_last_four": "0021",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "6963934261",
+           "card_last_four": "4261",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "9122115311715163",
+           "card_last_four": "5163",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "56401124551",
+           "card_last_four": "4551",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "15810065722",
+           "card_last_four": "5722",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "56603119236",
+           "card_last_four": "9236",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "380241830194843648",
+           "card_last_four": "3648",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "9122014101350861",
+           "card_last_four": "0861",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "1501002200345245",
+           "card_last_four": "5245",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8281263100786851",
+           "card_last_four": "6851",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "26600049855",
+           "card_last_four": "9855",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "1501002200423861",
+           "card_last_four": "3861",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "00301140029",
+           "card_last_four": "0029",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "14110062333",
+           "card_last_four": "2333",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "34801415040",
+           "card_last_four": "5040",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8586782356",
+           "card_last_four": "2356",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8099001803262228",
+           "card_last_four": "2228",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "33200706382",
+           "card_last_four": "6382",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "23700010729",
+           "card_last_four": "0729",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "9134123809573371",
+           "card_last_four": "3371",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8201271505849569",
+           "card_last_four": "9569",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "1001002300502878",
+           "card_last_four": "2878",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "1006002300710785",
+           "card_last_four": "0785",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "35200329726",
+           "card_last_four": "9726",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8201350019983591",
+           "card_last_four": "3591",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "33801405365",
+           "card_last_four": "5365",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8281262201087243",
+           "card_last_four": "7243",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "55901663664",
+           "card_last_four": "3664",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "1007002000597453",
+           "card_last_four": "7453",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8282265101614254",
+           "card_last_four": "4254",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
+        },
+        {
+           "full_card_number": "8099001906091357",
+           "card_last_four": "1357",
+           "prize": "家樂福禮券 200 元 (81 名)",
+           "week": 5
         }
-      ]
+    ]
 }
