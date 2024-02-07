@@ -3,16 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>高雄輕軌抽獎查詢</title>
+    <title>高雄輕軌成圓抽獎查詢</title>
 </head>
 <body>
-    <h1>輕軌抽獎查詢</h1>
+    <h1>高雄輕軌成圓抽獎查詢</h1>
     <p>這是方便查詢<a href="https://www.krtc.com.tw/Information/events_more?id=3180004f1e03493bbd5cdb260968753c">高雄輕軌成圓</a>中獎的簡易網站</p>
     <p>請輸入卡片末四碼以查詢是否中獎：</p>
     <input type="text" id="card_last_four">
     <button onclick="checkWinner()">查詢</button>
     <p id="result"></p>
     <p id="version"></p>
+    <small>By Daniel and assisted by AI</small>
 
     <script>
         function checkWinner() {
@@ -29,37 +30,33 @@
                     var winners = data.winners;
                     var version = data.version;
                     var weeks = data.weeks;
-                    var isWinner = false;
-                    var prize = '';
-                    var weekNumber = '';
-                    var facebookLink = '';
-                    var fullCardNumber = '';
-                    for (var i = 0; i < winners.length; i++) {
-                        if (winners[i].card_last_four === cardLastFour) {
-                            isWinner = true;
-                            prize = winners[i].prize;
-                            var weekIndex = winners[i].week - 1;
-                            weekNumber = weeks[weekIndex].week_number;
-                            facebookLink = weeks[weekIndex].facebook_link;
-                            fullCardNumber = winners[i].full_card_number;
-                            break;
-                        }
-                    }
-                    if (isWinner) {
-                        document.getElementById('result').innerHTML = '您可能中獎了！請核對完整卡號：<br>'
-                        + weekNumber + ': ' + fullCardNumber + '<br>'
-                        + '-' + prize + '<br>'
-                        + '前往該週<a href="' + facebookLink + '" target="_blank">FB公告</a>';
+                    var matchingWinners = winners.filter(function(winner) {
+                        return winner.card_last_four === cardLastFour;
+                    });
+                    if (matchingWinners.length > 0) {
+                        var resultHtml = '您可能中獎了！請核對完整卡號：<br><br>';
+                        matchingWinners.forEach(function(winner) {
+                            var weekIndex = winner.week - 1;
+                            var weekNumber = weeks[weekIndex].week_number;
+                            var facebookLink = weeks[weekIndex].facebook_link;
+                            var fullCardNumber = winner.full_card_number;
+                            var prize = winner.prize;
+                            resultHtml += ''
+                                + weekNumber + ': <strong>' + fullCardNumber + '</strong>' + '<a href=facebookLink> (FB公告)</a><br>' 
+                                + '-' + prize + '<br>'
+                                + '<br>';
+                        });
+                        document.getElementById('result').innerHTML = resultHtml;
                     } else {
                         document.getElementById('result').innerText = '抱歉，您沒有中獎。';
                     }
-
                     // 在結果後顯示版本號
                     document.getElementById('version').innerText = '目前名單更新至第 ' + version + ' 週';
                 }
             };
             xhr.send();
         }
+
 
         function validateInput(input) {
             return /^\d{4}$/.test(input);
